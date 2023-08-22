@@ -116,7 +116,7 @@ header.shadow.logo{
 }
 .featured{
     height: 650px;
-    background-image: url("/images/Poem4image.jpg");
+    background-image: url("images/Poem4image.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
